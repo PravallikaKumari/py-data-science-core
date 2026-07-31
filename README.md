@@ -13,7 +13,8 @@ https://py-data-science-core-d4akarrplurysg5zrdfu9a.streamlit.app/
 
 
 
-<img width="900" height="503" alt="Screenshot 2026-07-31 161117" src="https://github.com/user-attachments/assets/a7eaf71f-c89f-4019-997c-bb9f6b4ae52c" />
+<img width="900" height="503" alt="Screenshot 2026-07-31 161117" src="https://github.com/user-attachments/assets/26e518aa-a478-4bd9-9375-9e78e4f56e25" />
+
 
 ## Technologies Used
 
@@ -38,4 +39,5 @@ Sales & Profit Visual Explorer
 
 # output Screenshot
 
-<img width="959" height="509" alt="Screenshot 2026-07-31 160302" src="https://github.com/user-attachments/assets/b9e79279-2d94-4100-a31f-f4e9a0cfc6db" />
+<img width="959" height="509" alt="Screenshot 2026-07-31 160302" src="https://github.com/user-attachments/assets/ca0fff92-0aa3-4699-9062-885d82c603ea" />
+
